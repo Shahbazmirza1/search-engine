@@ -9,4 +9,4 @@ indexer:
 
 2. create a vocabulary using the code in the vocab folder map-reduce paradigm.
 
-3. create a DF for each word in the atricle using the map-reduce py files in the tf folder
+3. create a TF for each word in the atricle using the map-reduce py files in the tf folder

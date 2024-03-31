@@ -54,4 +54,3 @@ for line in sys.stdin:
 while not top_documents.empty():
     similarity, doc_id = top_documents.get()
     print(f"Document ID: {doc_id}, Similarity: {similarity}")
-

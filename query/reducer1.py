@@ -34,4 +34,3 @@ for term_id in query_vector:
 # Emit the normalized TF-IDF scores for the query vector
 for term_id, normalized_tf_idf in query_vector.items():
     print(f"{term_id}\t{normalized_tf_idf}")
-

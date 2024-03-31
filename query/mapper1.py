@@ -9,4 +9,3 @@ for line in sys.stdin:
         word_id, count = parts
         # Emit the word_id and count
         print(f"{word_id}\t{count}")
-
